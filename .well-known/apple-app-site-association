@@ -1,0 +1,10 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["K8RGT7KW66.com.listomani.app", "K8RGT7KW66.com.listomani.app.dev"],
+        "components": [{ "/": "/l/*" }]
+      }
+    ]
+  }
+}
